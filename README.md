@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![Login screen](https://github.com/nabilraihann/nabilraihann/blob/main/images/Screenshot_20221223_223224.png =250x)
+<img src="https://github.com/nabilraihann/nabilraihann/blob/main/images/Screenshot_20221223_223224.png" width="200">
